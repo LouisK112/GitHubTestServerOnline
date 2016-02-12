@@ -4,7 +4,6 @@ public class SomeNewClass {
 	
 	public SomeNewClass() {
 		System.out.print("Das hier ist neu!");
-		System.out.print("Das hier ist neu2!");
 		System.out.print("Das hier ist neu3!");
 	}
 

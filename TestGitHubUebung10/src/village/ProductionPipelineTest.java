@@ -64,6 +64,8 @@ public class ProductionPipelineTest {
 		assertEquals(Corn, line3.getStorage());
 		
 		
+		System.out.println("Hier wurde ein neuer Kommentar eingefügt");
+		
 		
 	}
 	

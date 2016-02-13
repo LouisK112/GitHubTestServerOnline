@@ -15,6 +15,9 @@ public class SomeNewClass {
 		System.out.print("Das hier ist neu10!");
 		System.out.print("Das hier ist neu11!");
 		System.out.print("Das hier ist neu12!");
+		
+		
+		System.out.print("Diese Änderung ist neu!");
 	}
 
 }

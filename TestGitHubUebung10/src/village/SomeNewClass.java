@@ -10,6 +10,9 @@ public class SomeNewClass {
 		System.out.print("master2 Änderung 4!");
 		System.out.print("master2 Änderung 5!");
 		System.out.print("master2 Änderung 6!");
+		
+		
+		System.out.print("Diese Änderung ist neu!");
 	}
 
 }

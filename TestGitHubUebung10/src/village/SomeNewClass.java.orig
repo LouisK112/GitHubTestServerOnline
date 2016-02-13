@@ -4,22 +4,7 @@ public class SomeNewClass {
 	
 	public SomeNewClass() {
 		
-		System.out.print("master2 Änderung 1!");
-		System.out.print("master2 Änderung 2!");
-		System.out.print("master2 Änderung 3!");
-		System.out.print("master2 Änderung 4!");
-		System.out.print("master2 Änderung 5!");
-		System.out.print("master2 Änderung 6!");
-	}
-
-}
-=======
-package village;
-
-public class SomeNewClass {
-	
-	public SomeNewClass() {
-		
+		System.out.print("Das hier ist neu!");
 		
 		System.out.print("Das hier ist neu4!");
 		System.out.print("Das hier ist neu5!");
@@ -33,4 +18,4 @@ public class SomeNewClass {
 		System.out.print("Das hier ist neu12!");
 	}
 
-
+}
